@@ -1,0 +1,22 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "item/custom/rotrvehicledoornew",
+		"particle": "item/custom/rotrvehicledoornew"
+	},
+	"elements": [
+		{
+			"from": [13, 2, -4.8],
+			"to": [17.9, 10, -3],
+			"rotation": {"angle": 0, "axis": "y", "origin": [5, 0, 19]},
+			"faces": {
+				"north": {"uv": [0, 0, 5, 8], "texture": "#0"},
+				"east": {"uv": [0, 8, 2, 16], "texture": "#0"},
+				"south": {"uv": [5, 0, 10, 8], "texture": "#0"},
+				"west": {"uv": [2, 8, 4, 16], "texture": "#0"},
+				"up": {"uv": [9, 10, 4, 8], "texture": "#0"},
+				"down": {"uv": [14, 8, 9, 10], "texture": "#0"}
+			}
+		}
+	]
+}

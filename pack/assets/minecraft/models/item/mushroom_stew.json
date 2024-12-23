@@ -1,0 +1,43 @@
+{
+    "parent": "minecraft:item/generated",
+        "textures": {
+          "layer0": "minecraft:item/mushroom_stew"
+        },
+	
+	"overrides":[
+	
+		{"predicate": {"custom_model_data":1}, "model": "custom/item/food/item-food-coffee"},
+        {"predicate": {"custom_model_data":2}, "model": "custom/item/food/item-food-milkshake-vanilla"},
+        {"predicate": {"custom_model_data":3}, "model": "custom/item/food/item-food-milkshake-mint"},
+        {"predicate": {"custom_model_data":4}, "model": "custom/item/food/item-food-burger"},
+        {"predicate": {"custom_model_data":5}, "model": "custom/item/food/item-food-popcorn"},
+        {"predicate": {"custom_model_data":6}, "model": "custom/item/food/item-food-hotdog"},
+        {"predicate": {"custom_model_data":7}, "model": "custom/item/food/item-food-banana-split"},
+        {"predicate": {"custom_model_data":8}, "model": "custom/item/food/item-food-pizza"},
+        {"predicate": {"custom_model_data":9}, "model": "custom/item/food/item-food-corndog"},
+        {"predicate": {"custom_model_data":10}, "model": "custom/item/food/item-food-lollipop-red"},
+        {"predicate": {"custom_model_data":11}, "model": "custom/item/food/item-food-lollipop-orange"},
+        {"predicate": {"custom_model_data":12}, "model": "custom/item/food/item-food-lollipop-yellow"},
+        {"predicate": {"custom_model_data":13}, "model": "custom/item/food/item-food-lollipop-green"},
+        {"predicate": {"custom_model_data":14}, "model": "custom/item/food/item-food-lollipop-blue"},
+        {"predicate": {"custom_model_data":15}, "model": "custom/item/food/item-food-lollipop-purple"},
+        {"predicate": {"custom_model_data":16}, "model": "custom/item/food/item-food-lollipop-pink"},
+        {"predicate": {"custom_model_data":17}, "model": "custom/item/food/item-food-cotton-candy-pink"},
+        {"predicate": {"custom_model_data":18}, "model": "custom/item/food/item-food-cotton-candy-purple"},
+        {"predicate": {"custom_model_data":19}, "model": "custom/item/food/item-food-cotton-candy-blue"},
+        {"predicate": {"custom_model_data":20}, "model": "custom/item/food/item-food-salad"},
+        {"predicate": {"custom_model_data":21}, "model": "custom/item/food/item-food-fish-n-chips"},
+        {"predicate": {"custom_model_data":22}, "model": "custom/item/food/item-food-salmon"},
+        {"predicate": {"custom_model_data":23}, "model": "custom/item/food/item-food-water"},
+        {"predicate": {"custom_model_data":24}, "model": "custom/item/food/item-food-jerk-chicken"},
+        {"predicate": {"custom_model_data":25}, "model": "custom/item/food/item-food-elote"},
+        {"predicate": {"custom_model_data":26}, "model": "custom/item/food/item-food-lobster"},
+        {"predicate": {"custom_model_data":27}, "model": "custom/item/food/item-food-macaroons"},
+        {"predicate": {"custom_model_data":28}, "model": "custom/item/food/item-food-croissant"},
+	{"predicate": {"custom_model_data":29}, "model": "custom/item/food/item-food-dolwhip"},
+	{"predicate": {"custom_model_data":30}, "model": "custom/item/gebottlecoke1new"},
+	{"predicate": {"custom_model_data":31}, "model": "custom/item/gebottlecoke2new"},
+	{"predicate": {"custom_model_data":32}, "model": "custom/item/gebottlespritenew"},
+	{"predicate": {"custom_model_data":33}, "model": "custom/item/cocacolacan"}
+	]
+}

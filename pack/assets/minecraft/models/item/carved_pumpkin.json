@@ -1,0 +1,37 @@
+{
+    "parent": "minecraft:item/generated",
+        "textures": {
+          "layer0": "minecraft:block/carved_pumpkin"
+        },
+		
+	"overrides":[
+	
+		{"predicate": {"custom_model_data":3}, "model": "custom/mk/furhat"},
+		{"predicate": {"custom_model_data":4}, "model": "custom/mk/mouseears"},
+		{"predicate": {"custom_model_data":5}, "model": "custom/mk/mouseearssparkle"},
+		{"predicate": {"custom_model_data":6}, "model": "custom/mk/mouseearsgold"},
+		{"predicate": {"custom_model_data":7}, "model": "custom/item/hat/item-hat-mickey-ears"},
+		{"predicate": {"custom_model_data":8}, "model": "custom/item/hat/item-hat-minnie-ears"},
+		{"predicate": {"custom_model_data":9}, "model": "custom/item/hat/item-hat-cowboy"},
+		{"predicate": {"custom_model_data":10}, "model": "custom/item/hat/item-hat-blue"},
+		{"predicate": {"custom_model_data":11}, "model": "custom/item/hat/item-hat-miner"},
+		{"predicate": {"custom_model_data":12}, "model": "custom/item/hat/item-hat-pride"},
+		{"predicate": {"custom_model_data":13}, "model": "custom/item/item-sunglasses"},
+		{"predicate": {"custom_model_data":14}, "model": "custom/item/tie/item-tie-blue"},
+		{"predicate": {"custom_model_data":15}, "model": "custom/hardhat"},
+		{"predicate": {"custom_model_data":16}, "model": "custom/item/hat/item-hat-jacks"},
+		{"predicate": {"custom_model_data":17}, "model": "custom/item/hat/item-hat-grad"},
+		{"predicate": {"custom_model_data":18}, "model": "custom/item/hat/item-hat-piratehat"},
+		{"predicate": {"custom_model_data":19}, "model": "custom/item/hat/item-hat-santamickeyhat"},
+		{"predicate": {"custom_model_data":20}, "model": "custom/item/hat/item-hat-reddapperdanhat"},
+		{"predicate": {"custom_model_data":21}, "model": "custom/item/hat/item-hat-newmickeyears"},
+		{"predicate": {"custom_model_data":22}, "model": "custom/hardhattech"},
+		{"predicate": {"custom_model_data":23}, "model": "custom/item/drhatnew"},
+		{"predicate": {"custom_model_data":24}, "model": "custom/item/hat/minnieheadband"},
+		{"predicate": {"custom_model_data":25}, "model": "custom/item/hat/christmasheadband"},
+		{"predicate": {"custom_model_data":26}, "model": "custom/item/hat/item-hat-santamickeyhat"}
+
+
+		
+	]
+}

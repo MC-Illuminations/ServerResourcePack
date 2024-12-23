@@ -1,0 +1,34 @@
+{
+    "providers": [
+        {"type": "bitmap","file": "minecraft:_fonts/logo.png","ascent": 42,"height": 96,"chars": ["ꡥꡦ","ꡧꡨ"]},
+
+            {"type": "bitmap","file": "minecraft:_fonts/ranks/owner.png","ascent": 7,"height": 7,"chars": ["ꀀ"]},
+            {"type": "bitmap","file": "minecraft:_fonts/ranks/co-owner.png","ascent": 7,"height": 7,"chars": ["ꀁ"]},
+            {"type": "bitmap","file": "minecraft:_fonts/ranks/hr.png","ascent": 7,"height": 7,"chars": ["ꀅ"]},
+
+            {"type": "bitmap","file": "minecraft:_fonts/ranks/pr-lead.png","ascent": 7,"height": 7,"chars": ["ꀃ"]},
+            {"type": "bitmap","file": "minecraft:_fonts/ranks/pr.png","ascent": 7,"height": 7,"chars": ["ꀍ"]},
+            {"type": "bitmap","file": "minecraft:_fonts/ranks/pr-eme.png","ascent": 7,"height": 7,"chars": ["ꀎ"]},
+
+
+            {"type": "bitmap","file": "minecraft:_fonts/ranks/imagineer-lead.png","ascent": 7,"height": 7,"chars": ["ꀂ"]},
+            {"type": "bitmap","file": "minecraft:_fonts/ranks/imagineer.png","ascent": 7,"height": 7,"chars": ["ꀆ"]},
+            {"type": "bitmap","file": "minecraft:_fonts/ranks/imagineer-eme.png","ascent": 7,"height": 7,"chars": ["ꀇ"]},
+
+            {"type": "bitmap","file": "minecraft:_fonts/ranks/tech-lead.png","ascent": 7,"height": 7,"chars": ["ꌖ"]},
+            {"type": "bitmap","file": "minecraft:_fonts/ranks/tech.png","ascent": 7,"height": 7,"chars": ["ꀈ"]},
+            {"type": "bitmap","file": "minecraft:_fonts/ranks/tech-eme.png","ascent": 7,"height": 7,"chars": ["ꀉ"]},
+            
+            {"type": "bitmap","file": "minecraft:_fonts/ranks/gr-lead.png","ascent": 7,"height": 7,"chars": ["ꀄ"]},
+            {"type": "bitmap","file": "minecraft:_fonts/ranks/gr.png","ascent": 7,"height": 7,"chars": ["ꀊ"]},
+            {"type": "bitmap","file": "minecraft:_fonts/ranks/gr-eme.png","ascent": 7,"height": 7,"chars": ["ꀋ"]},
+
+            {"type": "bitmap","file": "minecraft:_fonts/ranks/guest.png","ascent": 7,"height": 7,"chars": ["ꀌ"]},
+
+            {"type": "bitmap","file": "minecraft:_fonts/ranks/retired.png","ascent": 7,"height": 7,"chars": ["ꌔ"]},
+            {"type": "bitmap","file": "minecraft:_fonts/ranks/guest.png","ascent": 7,"height": 7,"chars": ["ꀎ"]},
+            
+
+        {"type": "bitmap","file": "minecraft:_fonts/pixel_split.png","ascent": -32768,"height": -3,"chars": [""]}       
+    ]
+}

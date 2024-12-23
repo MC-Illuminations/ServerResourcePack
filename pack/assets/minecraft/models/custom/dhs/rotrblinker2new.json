@@ -1,0 +1,27 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"2": "item/custom/rotrblinker2animatenew",
+		"particle": "item/custom/rotrblinker2"
+	},
+	"elements": [
+		{
+			"from": [6, 0, 8.2],
+			"to": [10, 6, 9],
+			"rotation": {"angle": 0, "axis": "x", "origin": [5, 0, 8]},
+			"faces": {
+				"north": {"uv": [0, 0, 4, 6], "texture": "#2"},
+				"east": {"uv": [0, 6, 1, 12], "texture": "#2"},
+				"south": {"uv": [4, 0, 8, 6], "texture": "#2"},
+				"west": {"uv": [1, 6, 2, 12], "texture": "#2"},
+				"up": {"uv": [6, 7, 2, 6], "texture": "#2"},
+				"down": {"uv": [10, 6, 6, 7], "texture": "#2"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"translation": [0, 8.25, 0]
+		}
+	}
+}

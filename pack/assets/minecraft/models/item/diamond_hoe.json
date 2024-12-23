@@ -1,0 +1,53 @@
+{
+    "parent": "minecraft:item/generated",
+        "textures": {
+          "layer0": "minecraft:item/diamond_hoe"
+        },
+	
+	"overrides":[
+	
+		{"predicate": {"custom_model_data":1}, "model": "magicbands/mickeymouseclub"},
+		{"predicate": {"custom_model_data":2}, "model": "magicbands/mickeychristmas"},
+		{"predicate": {"custom_model_data":3}, "model": "magicbands/guardians"},
+		{"predicate": {"custom_model_data":4}, "model": "magicbands/epcotws"},
+		{"predicate": {"custom_model_data":5}, "model": "magicbands/disney100th"},
+		{"predicate": {"custom_model_data":6}, "model": "magicbands/figmentblue"},
+		{"predicate": {"custom_model_data":7}, "model": "magicbands/wdw50thpartner"},
+		{"predicate": {"custom_model_data":8}, "model": "magicbands/mickeyhalloween"},
+		{"predicate": {"custom_model_data":9}, "model": "magicbands/hatboxghost"},
+		{"predicate": {"custom_model_data":10}, "model": "magicbands/wtp"},
+		{"predicate": {"custom_model_data":11}, "model": "magicbands/stitch"},
+		{"predicate": {"custom_model_data":12}, "model": "magicbands/100thpartner"},
+		{"predicate": {"custom_model_data":13}, "model": "magicbands/starterband"},
+		{"predicate": {"custom_model_data":14}, "model": "magicbands/fantasmicband"},
+		{"predicate": {"custom_model_data":15}, "model": "magicbands/mickeyband"},
+		{"predicate": {"custom_model_data":16}, "model": "magicbands/wdwicon"},
+		{"predicate": {"custom_model_data":17}, "model": "magicbands/fantasia"},
+		
+		{"predicate": {"custom_model_data":19}, "model": "magicbands/bluemickey"},
+		{"predicate": {"custom_model_data":20}, "model": "magicbands/dumbo"},
+		{"predicate": {"custom_model_data":21}, "model": "magicbands/mickeyhalloween"},
+		{"predicate": {"custom_model_data":22}, "model": "magicbands/jackhalloween"},
+		{"predicate": {"custom_model_data":23}, "model": "magicbands/tba"},
+		{"predicate": {"custom_model_data":24}, "model": "magicbands/adventureland"},
+		{"predicate": {"custom_model_data":25}, "model": "magicbands/firsttime"},
+		{"predicate": {"custom_model_data":26}, "model": "magicbands/ariel"},
+		{"predicate": {"custom_model_data":27}, "model": "magicbands/grogu"},
+		{"predicate": {"custom_model_data":28}, "model": "magicbands/starwars"},
+		{"predicate": {"custom_model_data":29}, "model": "magicbands/lionking"},
+		{"predicate": {"custom_model_data":30}, "model": "magicbands/groot"},
+
+		{"predicate": {"custom_model_data":31}, "model": "magicbands/black"},
+		{"predicate": {"custom_model_data":32}, "model": "magicbands/cream"},
+		{"predicate": {"custom_model_data":33}, "model": "magicbands/phv"},
+		{"predicate": {"custom_model_data":34}, "model": "magicbands/jedilightsaber"},
+		{"predicate": {"custom_model_data":35}, "model": "magicbands/red"},
+		{"predicate": {"custom_model_data":36}, "model": "magicbands/r2d2"},
+		{"predicate": {"custom_model_data":37}, "model": "magicbands/munchlings"},
+		{"predicate": {"custom_model_data":38}, "model": "magicbands/wtphoney"},
+		{"predicate": {"custom_model_data":39}, "model": "magicbands/r2d2starwars"},
+
+		{"predicate": {"custom_model_data":40}, "model": "magicbands/merrysithmas"},
+		{"predicate": {"custom_model_data":41}, "model": "magicbands/mickeymouseholiday"}
+	]
+}

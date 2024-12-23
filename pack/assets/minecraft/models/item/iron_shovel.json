@@ -1,0 +1,57 @@
+{
+    "parent": "minecraft:item/generated",
+        "textures": {
+          "layer0": "minecraft:item/iron_shovel"
+        },
+	
+	"overrides":[
+	
+		{"predicate": {"custom_model_data":3}, "model": "custom/item/backpack/item-backpack-haunted-mansion"},
+		{"predicate": {"custom_model_data":4}, "model": "custom/item/tech/item-tech-nintendo-switch-gray"},
+		{"predicate": {"custom_model_data":5}, "model": "custom/item/tech/item-tech-nintendo-switch-oled"},
+		{"predicate": {"custom_model_data":6}, "model": "custom/item/tech/item-tech-nintendo-switch"},
+		{"predicate": {"custom_model_data":7}, "model": "custom/item/backpack/item-backpack-mickey-white"},
+		{"predicate": {"custom_model_data":8}, "model": "custom/item/backpack/item-backpack-monsters-inc"},
+		{"predicate": {"custom_model_data":9}, "model": "custom/item/backpack/item-backpack-donald-yellow"},
+		{"predicate": {"custom_model_data":17}, "model": "custom/item/tech/item-tech-gameboy"},
+		{"predicate": {"custom_model_data":18}, "model": "custom/item/item-magic-band"},
+		{"predicate": {"custom_model_data":19}, "model": "custom/mk/tl/buzz/mk-tl-buzz-blaster"},
+		{"predicate": {"custom_model_data":22}, "model": "custom/item/item-tnt"},
+		{"predicate": {"custom_model_data":23}, "model": "custom/item/item-bloody-axe"},
+		{"predicate": {"custom_model_data":29}, "model": "custom/item/flag/item-flag-pride"},
+		{"predicate": {"custom_model_data":31}, "model": "custom/item/backpack/item-backpack-pride"},
+		{"predicate": {"custom_model_data":36}, "model": "custom/item/gun/item-gun"},
+		{"predicate": {"custom_model_data":37}, "model": "custom/item/gun/item-gun-silver"},
+		{"predicate": {"custom_model_data":38}, "model": "custom/item/gun/item-gun-golden"},
+		{"predicate": {"custom_model_data":39}, "model": "custom/item/gun/item-gun-dynamite"},
+		{"predicate": {"custom_model_data":40}, "model": "custom/item/gun/rifle"},
+		{"predicate": {"custom_model_data":46}, "model": "custom/item/item-gold-wings-staff"},
+		{"predicate": {"custom_model_data":47}, "model": "custom/mk/tl/space-mountain/space-mountain-car"},
+		{"predicate": {"custom_model_data":48}, "model": "custom/mk/tl/space-mountain/space-mountain-sign"},
+		{"predicate": {"custom_model_data":49}, "model": "custom/mk/tl/space-mountain/space-mountain-standby-sign"},
+		{"predicate": {"custom_model_data":50}, "model": "custom/mk/tl/space-mountain/space-mountain-lightning-sign"},
+		{"predicate": {"custom_model_data":51}, "model": "custom/mk/wdw-bigthunderwaitsign"},
+		{"predicate": {"custom_model_data":52}, "model": "custom/mk/wdw-bigthunderfastsign"},
+		{"predicate": {"custom_model_data":53}, "model": "custom/mk/smallworldsign"},
+		{"predicate": {"custom_model_data":54}, "model": "custom/mk/swordpull"},
+		{"predicate": {"custom_model_data":55}, "model": "custom/mk/tl/bluesaber"},
+	        {"predicate": {"custom_model_data":56}, "model": "custom/item/flag/americanflag"},
+		{"predicate": {"custom_model_data":57}, "model": "custom/item/stormtrooperarm"},
+		{"predicate": {"custom_model_data":58}, "model": "custom/item/stormtrooperblaster"},
+		{"predicate": {"custom_model_data":59}, "model": "custom/bicyclecyan"},
+		{"predicate": {"custom_model_data":60}, "model": "custom/aerialarm"},
+		{"predicate": {"custom_model_data":61}, "model": "custom/item/bekclosed"},
+		{"predicate": {"custom_model_data":62}, "model": "custom/item/bekhalfopen"},
+		{"predicate": {"custom_model_data":63}, "model": "custom/item/bekopen"},
+		{"predicate": {"custom_model_data":64}, "model": "custom/item/stormtroopergun1newnewnew"},
+		{"predicate": {"custom_model_data":65}, "model": "custom/item/tbaarm"},
+		{"predicate": {"custom_model_data":66}, "model": "custom/item/facilierstaff"},
+		{"predicate": {"custom_model_data":67}, "model": "custom/item/rotrwallanimatednewnew"},
+		{"predicate": {"custom_model_data":68}, "model": "custom/item/rotrwallrednew"},
+		{"predicate": {"custom_model_data":69}, "model": "custom/item/rotrwallwhitenew"},
+		{"predicate": {"custom_model_data":70}, "model": "custom/item/grayarmnew"},
+		{"predicate": {"custom_model_data":71}, "model": "custom/item/stormtroopergun1new"}
+
+		
+	]
+}

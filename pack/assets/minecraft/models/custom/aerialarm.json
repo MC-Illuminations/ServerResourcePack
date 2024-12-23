@@ -1,0 +1,33 @@
+{
+	"credit": "Made with Johnny",
+	"textures": {
+		"0": "item/custom/aerialarm",
+		"particle": "item/custom/aerialarm"
+	},
+	"elements": [
+		{
+			"from": [6.8, 0, 6.8],
+			"to": [9.2, 7, 9.2],
+			"faces": {
+				"north": {"uv": [0, 0, 2, 7], "texture": "#0"},
+				"east": {"uv": [2, 0, 4, 7], "texture": "#0"},
+				"south": {"uv": [4, 0, 6, 7], "texture": "#0"},
+				"west": {"uv": [6, 0, 8, 7], "texture": "#0"},
+				"up": {"uv": [2, 9, 0, 7], "texture": "#0"},
+				"down": {"uv": [4, 7, 2, 9], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [90, 0, 0],
+			"translation": [0, -2, 11.75],
+			"scale": [1.70727, 1.47656, 1.71219]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [90, 0, 0],
+			"translation": [0, -2, 11.75],
+			"scale": [1.70727, 1.47656, 1.71219]
+		}
+	}
+}
