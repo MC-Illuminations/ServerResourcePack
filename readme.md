@@ -2,6 +2,11 @@
 
 This repository serves as the central hub for developing the MCI server resource pack.
 
+## Developing the Pack  
+**Please don’t use this repo as your development source.**  
+Instead, download the pack locally by clicking [here](https://github.com/MC-Illuminations/ServerResourcePack/archive/refs/heads/main.zip). Once downloaded, edit the files on your system, and then push your changes to your branch when you’re ready.
+
+## How to correctly use the repo.
 To correctly contribute to the resource pack, **please avoid committing directly to the `main` branch**. Instead:  
 1. Create a new **development branch** for your changes.  
 2. Commit your updates to this branch.  
