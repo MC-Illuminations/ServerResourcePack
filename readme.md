@@ -12,3 +12,6 @@ To correctly contribute to the resource pack, **please avoid committing directly
 2. Commit your updates to this branch.  
 3. Submit a **pull request** to merge your changes into the `main` branch.  
    *(You are welcome to review and approve your own pull requests if appropriate.)*
+
+
+# This may take up to 1 minute to build and deploy. Please be patient.
