@@ -1,4 +1,4 @@
-name: Optimize resource pack
+name: Optimize and release resource pack
 on:
   push:
     branches:
