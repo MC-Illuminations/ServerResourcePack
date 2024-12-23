@@ -15,4 +15,4 @@ To correctly contribute to the resource pack, **please avoid committing directly
 
 > [!IMPORTANT]  
 > This may take up to 1 minute to build and deploy. Please be patient.
-> You can view it building [here](https://github.com/MC-Illuminations/ServerResourcePack/actions)
+> You can view it building [here](https://github.com/MC-Illuminations/ServerResourcePack/actions).
