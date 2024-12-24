@@ -1,0 +1,11 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "item/custom/gui/blank"
+	},
+	"display": {
+		"gui": {
+			"scale": [1.11, 1.11, 1.11]
+		}
+	}
+}
