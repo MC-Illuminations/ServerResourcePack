@@ -27,6 +27,11 @@
 
             {"type": "bitmap","file": "minecraft:_fonts/ranks/retired.png","ascent": 7,"height": 7,"chars": ["ꌔ"]},            
 
+{"type": "bitmap","file": "minecraft:_fonts/ranks/character.png","ascent": 7,"height": 7,"chars": ["ꌕ"]},
+{"type": "bitmap","file": "minecraft:_fonts/ranks/show.png","ascent": 7,"height": 7,"chars": ["ꁁ"]},
+{"type": "bitmap","file": "minecraft:_fonts/ranks/group_ride.png","ascent": 7,"height": 7,"chars": ["ꌗ"]},
+{"type": "bitmap","file": "minecraft:_fonts/ranks/server.png","ascent": 7,"height": 7,"chars": ["ꌘ"]},
+
         {"type": "bitmap","file": "minecraft:_fonts/pixel_split.png","ascent": -32768,"height": -3,"chars": [""]}       
     ]
 }
