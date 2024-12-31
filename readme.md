@@ -16,3 +16,19 @@ To correctly contribute to the resource pack, **please avoid committing directly
 > [!IMPORTANT]  
 > This may take up to 1 minute to build and deploy. Please be patient.
 > You can view it building [here](https://github.com/MC-Illuminations/ServerResourcePack/actions).
+
+## What items to use
+
+| Item               | Use                                    | Comment                                   |
+|--------------------|----------------------------------------|-------------------------------------------|
+| Mushroom Stew      | Food                                   |                                           |
+| Minecarts          | Cart/ride models                      |                                           |
+| Carved Pumpkins    | Hats                                   |                                           |
+| Diamond Hoe        | Magic band                            |                                           |
+| Golden Chestplate  | Experimenting stuff                   |                                           |
+| Golden Hoe         | Holiday decoration                    |                                           |
+| Iron Hoe           | Trash cans?                           |                                           |
+| Iron Ingot         | Misc                                   |                                           |
+| Iron Shovel        | Misc                                   |                                           |
+| Stone Shovel       | Armor Stand Arms                      | Ask Gabe for more info.                   |
+| Stone Pickaxe      | New Head Cosmetics                    | Use /hm with Illuminations Plugin        |

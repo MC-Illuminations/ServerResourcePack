@@ -22,6 +22,7 @@
             {"type": "bitmap","file": "minecraft:_fonts/ranks/gr-lead.png","ascent": 7,"height": 7,"chars": ["ꀄ"]},
             {"type": "bitmap","file": "minecraft:_fonts/ranks/gr.png","ascent": 7,"height": 7,"chars": ["ꀊ"]},
             {"type": "bitmap","file": "minecraft:_fonts/ranks/gr-eme.png","ascent": 7,"height": 7,"chars": ["ꀋ"]},
+            {"type": "bitmap","file": "minecraft:_fonts/ranks/npc.png","ascent": 7,"height": 7,"chars": ["ꀗ"]},
 
             {"type": "bitmap","file": "minecraft:_fonts/ranks/guest.png","ascent": 7,"height": 7,"chars": ["ꀌ"]},
 
