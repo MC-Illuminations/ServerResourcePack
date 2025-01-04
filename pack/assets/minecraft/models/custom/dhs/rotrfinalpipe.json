@@ -1,8 +1,8 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "rotrfinalpipe",
-		"particle": "rotrfinalpipe"
+		"0": "item/custom/rotrfinalpipe",
+		"particle": "item/custom/rotrfinalpipe"
 	},
 	"elements": [
 		{
