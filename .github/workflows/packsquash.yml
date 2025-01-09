@@ -13,15 +13,25 @@ jobs:
         uses: actions/checkout@v3
         with:
           fetch-depth: 0
+
       - name: Run PackSquash
         uses: ComunidadAylas/PackSquash-action@v3
         with:
           path: pack
 
+      - name: Verify generated pack.zip
+        run: ls -al /home/runner/work/_temp/packsquash/
+
+      - name: Upload optimized pack
+        uses: actions/upload-artifact@v4
+        with:
+          name: OptimizedPack
+          path: /home/runner/work/_temp/packsquash/pack.zip
+
       - name: Download optimized pack
         uses: actions/download-artifact@v4
         with:
-          name: Optimized pack
+          name: OptimizedPack
 
       - name: Generate Hash
         run: sha1sum pack.zip | head -c 40 > hash.txt
