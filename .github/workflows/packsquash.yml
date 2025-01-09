@@ -22,18 +22,19 @@ jobs:
         uses: actions/upload-artifact@v4
         with:
           name: OptimizedPack
-          path: pack.zip  # Ensure this path matches the actual path of the artifact you want to upload
+          path: pack.zip
 
       - name: Download optimized pack
         uses: actions/download-artifact@v4
         with:
           name: OptimizedPack
+          path: .
 
       - name: Generate Hash
-        run: sha1sum pack.zip | head -c 40 > hash.txt
+        run: sha1sum pack.zip > hash.txt
       
       - name: Copy Pack For Plugin
-        run: cp pack.zip $(cat hash.txt).zip
+        run: cp pack.zip $(cat hash.txt | tr -d '\n').zip
 
       - name: Tag and create release
         uses: softprops/action-gh-release@v1
