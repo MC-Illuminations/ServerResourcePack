@@ -2,9 +2,9 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [32, 32],
 	"textures": {
-		"0": "kylorenlightsaber1",
-		"1": "kylorenlightsaber2",
-		"particle": "kylorenlightsaber1"
+		"0": "item/custom/kylorenlightsaber1",
+		"1": "item/custom/kylorenlightsaber2",
+		"particle": "item/custom/kylorenlightsaber1"
 	},
 	"elements": [
 		{
