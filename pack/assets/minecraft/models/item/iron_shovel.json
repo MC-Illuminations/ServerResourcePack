@@ -54,7 +54,8 @@
 		{"predicate": {"custom_model_data":72}, "model": "custom/item/kylorenlightsaberfade1"},
 		{"predicate": {"custom_model_data":73}, "model": "custom/item/kylorenlightsaberfade2"},
 		{"predicate": {"custom_model_data":74}, "model": "custom/item/kylorenlightsaberfade3"},
-		{"predicate": {"custom_model_data":75}, "model": "custom/item/kylorenlightsaberfade4"}
+		{"predicate": {"custom_model_data":75}, "model": "custom/item/kylorenlightsaberfade4"},
+		{"predicate": {"custom_model_data":76}, "model": "custom/item/kylorenlightsaber"}
 
 		
 	]
