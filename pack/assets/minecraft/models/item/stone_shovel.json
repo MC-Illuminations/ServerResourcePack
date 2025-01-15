@@ -6,8 +6,9 @@
       },
 
 "overrides":[
-
+  
   {"predicate": {"custom_model_data":1}, "model": "custom/arms/totworkerarm"},
-  {"predicate": {"custom_model_data":2}, "model": "custom/arms/kyloarm"}
+  {"predicate": {"custom_model_data":2}, "model": "custom/arms/kyloarm"},
+  {"predicate": {"custom_model_data":3}, "model": "custom/arms/kyloarmlightsaber"}
 ]
 }
