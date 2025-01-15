@@ -50,7 +50,12 @@
 		{"predicate": {"custom_model_data":68}, "model": "custom/item/rotrwallrednew"},
 		{"predicate": {"custom_model_data":69}, "model": "custom/item/rotrwallwhitenew"},
 		{"predicate": {"custom_model_data":70}, "model": "custom/item/grayarmnew"},
-		{"predicate": {"custom_model_data":71}, "model": "custom/item/stormtroopergun1new"}
+		{"predicate": {"custom_model_data":71}, "model": "custom/item/stormtroopergun1new"},
+		{"predicate": {"custom_model_data":72}, "model": "custom/dhs/kylorenlightsaberfade1"},
+		{"predicate": {"custom_model_data":73}, "model": "custom/dhs/kylorenlightsaberfade2"},
+		{"predicate": {"custom_model_data":74}, "model": "custom/dhs/kylorenlightsaberfade3"},
+		{"predicate": {"custom_model_data":75}, "model": "custom/dhs/kylorenlightsaberfade4"},
+		{"predicate": {"custom_model_data":76}, "model": "custom/dhs/kylorenlightsaber"}
 
 		
 	]
