@@ -97,7 +97,7 @@
         {"predicate": {"custom_model_data": 126}, "model": "custom/dhs/rotrblinker2new"},
         {"predicate": {"custom_model_data": 127}, "model": "custom/mk/tangeledlighttower"},
         {"predicate": {"custom_model_data": 128}, "model": "custom/mk/tangeledfantower"},
-        {"predicate": {"custom_model_data": 129}, "model": "custom/dhs/rotrfinalpipe"},
-        {"predicate": {"custom_model_data": 130}, "model": "custom/dhs/rotrfinalwall"}
+        {"predicate": {"custom_model_data": 129}, "model": "custom/dhs/rotrfinalpipenew"},
+        {"predicate": {"custom_model_data": 130}, "model": "custom/dhs/rotrfinalwallnew"}
     ]
 }
