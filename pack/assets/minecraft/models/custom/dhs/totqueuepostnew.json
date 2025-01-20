@@ -4,8 +4,8 @@
 	"textures": {
 		"1": "item/custom/totqueuepost1",
 		"2": "item/custom/totqueuepost2",
-		"3": "item/custom/totqueuepost3",
-		"particle": "item/custom/totqueuepost3"
+		"3": "item/custom/totqueuepost3red",
+		"particle": "totqueuepost3red"
 	},
 	"elements": [
 		{
@@ -87,9 +87,9 @@
 			}
 		},
 		{
-			"from": [6.5, 13.4, 7.4],
-			"to": [9.6, 13.4, 10.5],
-			"rotation": {"angle": 0, "axis": "y", "origin": [7, 13.4, 8]},
+			"from": [6.5, 13.5, 7.4],
+			"to": [9.6, 13.5, 10.5],
+			"rotation": {"angle": 0, "axis": "y", "origin": [7, 13.5, 8]},
 			"faces": {
 				"north": {"uv": [0, 0, 5, 0], "texture": "#2"},
 				"east": {"uv": [0, 0, 5, 0], "texture": "#2"},
