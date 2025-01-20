@@ -1,10 +1,9 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"1": "item/custom/totentranceplaque1new",
-		"2": "item/custom/totentranceplaque2new",
-		"3": "item/custom/totentranceplaque3new",
-		"particle": "totentranceplaque1new"
+		"2": "item/custom/totentranceplaque3new",
+		"3": "item/custom/totentranceplaque2new",
+		"5": "item/custom/totentranceplaque1new"
 	},
 	"elements": [
 		{

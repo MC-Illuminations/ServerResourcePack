@@ -4,8 +4,8 @@
 	"textures": {
 		"1": "item/custom/totqueuepost1",
 		"2": "item/custom/totqueuepost2",
-		"3": "item/custom/totqueuepost3red",
-		"particle": "totqueuepost3red"
+		"3": "item/custom/totqueuepost3new",
+		"particle": "item/custom/totqueuepost3new"
 	},
 	"elements": [
 		{
