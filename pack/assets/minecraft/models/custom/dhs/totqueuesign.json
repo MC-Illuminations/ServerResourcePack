@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [8, 8],
 	"textures": {
-		"0": "totsign",
-		"particle": "totsign"
+		"0": "item/custom/totsign",
+		"particle": "item/custom/totsign"
 	},
 	"elements": [
 		{
