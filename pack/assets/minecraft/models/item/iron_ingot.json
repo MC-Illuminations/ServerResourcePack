@@ -103,7 +103,7 @@
         {"predicate": {"custom_model_data": 132}, "model": "custom/dhs/totentranceplaquenewnew"},
         {"predicate": {"custom_model_data": 133}, "model": "custom/dhs/totentrancepodium"},
         {"predicate": {"custom_model_data": 134}, "model": "custom/dhs/totqueuepostchain"},
-        {"predicate": {"custom_model_data": 135}, "model": "custom/dhs/totsign"},
+        {"predicate": {"custom_model_data": 135}, "model": "custom/dhs/totqueuesign"},
         {"predicate": {"custom_model_data": 136}, "model": "custom/dhs/totchain"},
         {"predicate": {"custom_model_data": 137}, "model": "custom/dhs/totentrancepodiumbrown"},
         {"predicate": {"custom_model_data": 138}, "model": "custom/dhs/totcurtain"},
