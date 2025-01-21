@@ -109,6 +109,7 @@
         {"predicate": {"custom_model_data": 138}, "model": "custom/dhs/totcurtain"},
         {"predicate": {"custom_model_data": 139}, "model": "custom/dhs/totpot"},
         {"predicate": {"custom_model_data": 140}, "model": "custom/dhs/cjtotentranceplaque"},
-        {"predicate": {"custom_model_data": 141}, "model": "custom/dhs/totpot2"}
+        {"predicate": {"custom_model_data": 141}, "model": "custom/dhs/totpot2"},
+        {"predicate": {"custom_model_data": 142}, "model": "custom/dhs/totflag"}
     ]
 }
