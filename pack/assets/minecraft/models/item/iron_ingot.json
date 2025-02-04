@@ -112,6 +112,7 @@
         {"predicate": {"custom_model_data": 141}, "model": "custom/dhs/totpot2"},
         {"predicate": {"custom_model_data": 142}, "model": "custom/dhs/totflag"},
         {"predicate": {"custom_model_data": 143}, "model": "custom/dhs/exitsignmodel"},
-        {"predicate": {"custom_model_data": 144}, "model": "custom/dhs/pictureifyoudaremodel"}
+        {"predicate": {"custom_model_data": 144}, "model": "custom/dhs/pictureifyoudaremodel"},
+        {"predicate": {"custom_model_data": 145}, "model": "custom/dhs/escapepod"}
     ]
 }
