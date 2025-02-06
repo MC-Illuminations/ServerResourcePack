@@ -1,41 +1,27 @@
-name: Optimize and release resource pack
-on:
-  push:
-    branches:
-      - main
-
+name: Optimize resource pack
+on: [push, workflow_dispatch]
 jobs:
   packsquash:
+    permissions: write-all
     name: Optimize resource pack
     runs-on: ubuntu-latest
     steps:
       - name: Clone repository
         uses: actions/checkout@v3
         with:
-          fetch-depth: 0
-
+          fetch-depth: 0 # A non-shallow repository clone is required
       - name: Run PackSquash
         uses: ComunidadAylas/PackSquash-action@v3
         with:
           path: pack
-
-      - name: Verify generated pack.zip
-        run: ls -al /home/runner/work/_temp/packsquash/
-
-      - name: Upload optimized pack
-        uses: actions/upload-artifact@v4
-        with:
-          name: OptimizedPack
-          path: /home/runner/work/_temp/packsquash/pack.zip
-
       - name: Download optimized pack
-        uses: actions/download-artifact@v4
+        uses: actions/download-artifact@v3
         with:
-          name: OptimizedPack
+          name: Optimized pack
 
       - name: Generate Hash
         run: sha1sum pack.zip | head -c 40 > hash.txt
-
+      
       - name: Copy Pack For Plugin
         run: cp pack.zip $(cat hash.txt).zip
 
